@@ -1,0 +1,12 @@
+<h1>Pyreader</h1>
+<h2>Open Source native PDF energy bills reader</h2>
+<p>&nbsp;</p>
+
+<h3>Insert the path of the folder where your bill is located.</h3>
+<p>Please be sure also the name of the file is included.</p>
+<form action="/action_page.php"><label for="path">Path</label> <input id="path" name="path" type="text" /><br /><br /> <input type="submit" value="Submit" /></form>
+<p>&nbsp;</p>
+
+<form action="/action_page.php"><label for="POD">POD</label> <input id="POD" name="POD" type="POD" /><br /><br /></form>
+<form action="/action_page.php"><label for="PDR">PDR</label> <input id="PDR" name="PDR" type="PDR" /><br /><br /></form>
+<form action="/action_page.php"><label for="CF">CF&nbsp;&nbsp;</label> <input id="CF" name="CF" type="CF" /><br /><br /></form>
