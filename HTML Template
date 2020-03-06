@@ -12,3 +12,4 @@
 <form action="/action_page.php"><label for="POD">POD</label> <input id="POD" name="POD" type="POD" /><br /><br /></form>
 <form action="/action_page.php"><label for="PDR">PDR</label> <input id="PDR" name="PDR" type="PDR" /><br /><br /></form>
 <form action="/action_page.php"><label for="CF">CF&nbsp;&nbsp;</label> <input id="CF" name="CF" type="CF" /><br /><br /></form>
+</html>
