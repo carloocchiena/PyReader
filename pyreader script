@@ -7,6 +7,8 @@ def pdfreader():
     temp = page_one.extractText()
     bolletta = str(temp)
     alfa=bolletta.split()
+    my_file.close()
+
     
     for i in alfa:
         if "POD" in i:
